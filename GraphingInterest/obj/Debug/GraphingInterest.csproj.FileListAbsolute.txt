@@ -1,0 +1,11 @@
+C:\Users\Valued Customer\Desktop\projects\GraphingInterest\GraphingInterest\bin\Debug\GraphingInterest.exe.config
+C:\Users\Valued Customer\Desktop\projects\GraphingInterest\GraphingInterest\bin\Debug\GraphingInterest.exe
+C:\Users\Valued Customer\Desktop\projects\GraphingInterest\GraphingInterest\bin\Debug\GraphingInterest.pdb
+C:\Users\Valued Customer\Desktop\projects\GraphingInterest\GraphingInterest\obj\Debug\GraphingInterest.csproj.AssemblyReference.cache
+C:\Users\Valued Customer\Desktop\projects\GraphingInterest\GraphingInterest\obj\Debug\GraphingInterest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Valued Customer\Desktop\projects\GraphingInterest\GraphingInterest\obj\Debug\GraphingInterest.Properties.Resources.resources
+C:\Users\Valued Customer\Desktop\projects\GraphingInterest\GraphingInterest\obj\Debug\GraphingInterest.csproj.GenerateResource.cache
+C:\Users\Valued Customer\Desktop\projects\GraphingInterest\GraphingInterest\obj\Debug\GraphingInterest.csproj.CoreCompileInputs.cache
+C:\Users\Valued Customer\Desktop\projects\GraphingInterest\GraphingInterest\obj\Debug\GraphingInterest.exe
+C:\Users\Valued Customer\Desktop\projects\GraphingInterest\GraphingInterest\obj\Debug\GraphingInterest.pdb
+C:\Users\Valued Customer\Desktop\projects\GraphingInterest\GraphingInterest\obj\Debug\GraphingInterest.InterestForm.resources
